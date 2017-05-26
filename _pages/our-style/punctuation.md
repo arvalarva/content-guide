@@ -61,3 +61,7 @@ Use _and_ instead of an ampersand or plus sign, unless they’re part of an offi
 ## Slashes
 
 Avoid using the slash `/` symbol. Replace it with words or commas as appropriate.
+
+## Exclamation points
+
+Avoid using exclamation points. Unless in a quote, they are never necessary, they cheapen your message, and lower the grade-level of your content. For example, "Sign up for agency email alerts!" creates an odd tone.
